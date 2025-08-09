@@ -47,7 +47,7 @@ NextPharma is a cross-platform Point of Sale system designed for pharmacies and 
 ## Demo
 
 [NextPharma Video Preview] <video width="600" controls>
-  <source src="assets/nextpharma.webm)" type="video/webm">
+  <source src="assets/nextpharma.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
