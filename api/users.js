@@ -273,11 +273,11 @@ app.get("/check", function (req, res) {
         function (err, docs) {
             if (!docs) {
                 bcrypt
-                    .hash("admin", saltRounds)
+                    .hash("fasi", saltRounds)
                     .then((hash) => {
                         let user = {
                             _id: 1,
-                            username: "admin",
+                            username: "fasi",
                             fullname: "Administrator",
                             perm_products: 1,
                             perm_categories: 1,
