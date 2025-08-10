@@ -45,12 +45,8 @@ NextPharma is a cross-platform Point of Sale system designed for pharmacies and 
 
 
 ## Demo
+![NextPharma Video Preview](assets/nextpharma.gif)
 
-[NextPharma Video Preview] 
-<video width="600" controls>
-  <source src="assets/nextpharma.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 | **Point of Sale** |  **Payment Point** |
 |--|--|
@@ -67,8 +63,8 @@ NextPharma is a cross-platform Point of Sale system designed for pharmacies and 
 - Click the ``NextPharma`` executable in the folder
 - Login for default user:
 
-	- ``username:`` admin
-	- ``password:`` admin
+	- ``username:`` fasi
+	- ``password:`` fasi
 
 ## For Developers
 - Clone this project.
