@@ -43,9 +43,17 @@ NextPharma is a cross-platform Point of Sale system designed for pharmacies and 
 
 ✔️ **Improved UI** Enjoy a fresh, modern look with enhanced display quality, making the user experience more appealing.
 
+if you want to test the application with demo data, run the following command:
+
+```bash
+node generate_demo_data.js
+```
+
 
 ## Demo
 ![NextPharma Video Preview](assets/nextpharma.gif)
+
+
 
 
 | **Point of Sale** |  **Payment Point** |
