@@ -83,7 +83,7 @@
     "browser-sync": "^3.0.3",
     "cross-env": "^7.0.3",
     "electron": "^22.3.27",
-    "electron-is-dev": "^2.0.0",
+    "electron-is-dev": "^3.0.1",
     "electron-log": "^4.4.8",
     "electron-reloader": "^1.2.3",
     "gulp": "^5.0.0",
